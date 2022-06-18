@@ -1,6 +1,6 @@
 
            let linksSocialMedia = {
-            github: "leandrocosta-dev",
+            github: "LeandroNcosta",
             instagram: "ncosta_leandro",
             facebook: "leandro.nascimento.1829",
             youtube: "UCJJMDZ1T3II7XrYieBExeoA"
